@@ -1,0 +1,16 @@
+body{
+background-color: aqua;
+}
+
+button{
+
+border-radius: 20px;
+background-color: blue;
+color: white;
+
+}
+
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+}
